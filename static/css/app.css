@@ -1,0 +1,23 @@
+header>img{
+  opacity: .3;
+  width:32px;
+}
+
+.fr{
+  color:blue;
+  font-weight:bold;
+}
+
+.en,
+.it{
+  display: none;
+  font-weight: 700;
+}
+
+.en{
+  color:red;
+}
+
+.it{
+  color:green;
+}
